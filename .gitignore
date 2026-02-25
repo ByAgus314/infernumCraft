@@ -7,5 +7,6 @@ server/world/*
 server/world_nether/
 server/world_the_end/
 
+
 # ignorar logs 
 server/logs/
