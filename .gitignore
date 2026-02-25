@@ -1,0 +1,9 @@
+# ignorar todo dentro de world
+server/world/*
+
+# permitir datapacks
+!server/world/datapacks/
+!server/world/datapacks/**
+
+# ignorar logs 
+server/logs/
