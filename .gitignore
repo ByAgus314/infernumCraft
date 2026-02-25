@@ -4,6 +4,8 @@ server/world/*
 # permitir datapacks
 !server/world/datapacks/
 !server/world/datapacks/**
+server/world_nether/
+server/world_the_end/
 
 # ignorar logs 
 server/logs/
