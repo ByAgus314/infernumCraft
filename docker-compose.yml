@@ -6,3 +6,5 @@ services:
       - "25565:25565"
     volumes:
      - ./server:/server
+    stdin_open: true
+    tty: true

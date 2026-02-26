@@ -7,3 +7,7 @@ guardar informacion:
 obtener informacion 
 
  1. git pull origin main
+
+iniciar docker
+ 
+ 1. docker compose up -d --build
