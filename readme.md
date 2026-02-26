@@ -11,3 +11,5 @@ obtener informacion
 iniciar docker
  
  1. docker compose up -d --build
+
+ 
