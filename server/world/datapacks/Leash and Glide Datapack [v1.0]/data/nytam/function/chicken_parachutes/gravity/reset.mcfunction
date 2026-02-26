@@ -1,0 +1,12 @@
+attribute @s minecraft:gravity modifier remove nytam:chicken_parachutes/g1
+attribute @s minecraft:gravity modifier remove nytam:chicken_parachutes/g2
+attribute @s minecraft:gravity modifier remove nytam:chicken_parachutes/g3
+attribute @s minecraft:gravity modifier remove nytam:chicken_parachutes/g4
+attribute @s minecraft:gravity modifier remove nytam:chicken_parachutes/g5
+attribute @s minecraft:gravity modifier remove nytam:chicken_parachutes/g6
+attribute @s minecraft:fall_damage_multiplier modifier remove nytam:chicken_parachutes/fdm1
+attribute @s minecraft:fall_damage_multiplier modifier remove nytam:chicken_parachutes/fdm2
+attribute @s minecraft:fall_damage_multiplier modifier remove nytam:chicken_parachutes/fdm3
+attribute @s minecraft:fall_damage_multiplier modifier remove nytam:chicken_parachutes/fdm4
+attribute @s minecraft:fall_damage_multiplier modifier remove nytam:chicken_parachutes/fdm5
+attribute @s minecraft:fall_damage_multiplier modifier remove nytam:chicken_parachutes/fdm6
